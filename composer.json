@@ -1,5 +1,5 @@
 {
-  "name": "QPARD/magento2-ukrainian-language-pack",
+  "name": "qpard/magento2-ukrainian-language-pack",
   "description": "Ukrainian language package for Magento 2",
   "homepage": "https://qpard.com",
   "require": {
