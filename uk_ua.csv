@@ -8079,8 +8079,8 @@ Website,Веб-сайт,module,Magento_Theme
 Store,Магазин,module,Magento_Theme
 Store View,Store View,module,Magento_Theme
 Skip to Content,Перейти до вмісту,module,Magento_Theme
-Menu,меню,module,Magento_Theme
-Account,рахунки,module,Magento_Theme
+Menu,Меню,module,Magento_Theme
+Account,Особистий кабінет,module,Magento_Theme
 Settings,Налаштування,module,Magento_Theme
 2 columns with left bar,2 колонки з лівої штангою,module,Magento_Theme
 2 columns with right bar,2 колонки з правій панелі,module,Magento_Theme
