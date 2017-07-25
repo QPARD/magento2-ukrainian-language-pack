@@ -6458,7 +6458,7 @@ Please select an option.,"Будь ласка, виберіть варіант."
 Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.,"Будь ласка введіть дійсний номер телефону. Так, наприклад (123) 456-7890 або 123-456-7890.",module,Magento_Ui
 Please enter a valid fax number (Ex: 123-456-7890).,"Будь ласка, введіть дійсний номер факсу (Приклад: 123-456-7890).",module,Magento_Ui
 Please enter a valid email address (Ex: johndoe@domain.com).,"Будь ласка, введіть адресу електронної пошти (Ex: johndoe@domain.com).",module,Magento_Ui
-Please enter 6 or more characters. Leading and trailing spaces will be ignored.,"Будь ласка, введіть 6 або більше символів. Ведучі й відомі прогалини будуть ігноруватися.",module,Magento_Ui
+Please enter 6 or more characters. Leading and trailing spaces will be ignored.,"Будь ласка, введіть 6 або більше символів. Пробіли на початку та кінці будуть ігноруватися.",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","Будь ласка, введіть 7 або більше символів, використовуючи як числові і літерні.",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Будь ласка, введіть правильний URL. Протокол потрібно (HTTP: //, https: // або FTP: //).",module,Magento_Ui
 Please enter a valid URL. For example http://www.example.com or www.example.com.,"Будь ласка, введіть правильний URL. Так, наприклад http://www.example.com або www.example.com.",module,Magento_Ui
@@ -8615,3 +8615,4 @@ Excel XML,Excel XML,module,Magento_Ui
 USPS,USPS,module,Magento_Usps
 Machinable,Machinable,module,Magento_Usps
 Magento Web API,Magento Web API,module,Magento_Webapi
+"Please enter the same value again","Паролі не співпадають, спробуйте ще", module, Magento_Customer 
