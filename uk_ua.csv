@@ -708,10 +708,10 @@ Relevance,Релевантність,module,Magento_CatalogSearch
 Search results for: '%1',Результати пошуку: '%1',module,Magento_CatalogSearch
 Minimum Search query length is %1,Мінімальна довжина запиту пошуку-%1,module,Magento_CatalogSearch
 Please specify at least one search term.,"Будь ласка, вкажіть принаймні один пошуковий термін.",module,Magento_CatalogSearch
- %1 and greater, %1 і більше,module,Magento_CatalogSearch
+" %1 and greater"," %1 і більше",module,Magento_CatalogSearch
 up to %1,до %1,module,Magento_CatalogSearch
 Category,Категорія,module,Magento_CatalogSearch
- %1 and above, %1 та більше,module,Magento_CatalogSearch
+" %1 and above"," %1 та більше",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","На жаль, щось пішло не так. Ви можете дізнатися більше в журналі помилок.",module,Magento_CatalogSearch
 Bucket does not exist,Ківш не існує,module,Magento_CatalogSearch
 Product,Продукт,module,Magento_CatalogSearch
