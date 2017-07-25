@@ -711,7 +711,7 @@ Please specify at least one search term.,"Будь ласка, вкажіть п
  %1 and greater, %1 і більше,module,Magento_CatalogSearch
 up to %1,до %1,module,Magento_CatalogSearch
 Category,Категорія,module,Magento_CatalogSearch
- %1 and above, %1 та вище,module,Magento_CatalogSearch
+ %1 and above, %1 та більше,module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","На жаль, щось пішло не так. Ви можете дізнатися більше в журналі помилок.",module,Magento_CatalogSearch
 Bucket does not exist,Ківш не існує,module,Magento_CatalogSearch
 Product,Продукт,module,Magento_CatalogSearch
@@ -1297,7 +1297,7 @@ We found other products you might like!,"Ми знайшли інші товар
 More Choices:,Більше варіантів:,module,Magento_Catalog
 Check items to add to the cart or,"Позначте елементи, які додати до кошика, або",module,Magento_Catalog
 select all,вибрати все,module,Magento_Catalog
-Items %1-%2 of %3 ,Позиції %1-%2 з %3 ,module,Magento_Catalog
+"Items %1-%2 of %3 ","Позиції %1-%2 з %3 ",module,Magento_Catalog
  %1 Item, %1 елемент,module,Magento_Catalog
  %1 Items, %1 елементи(ів),module,Magento_Catalog
 Show,Показати,module,Magento_Catalog
@@ -1493,7 +1493,7 @@ You saved the block.,Ви врятували блок.,module,Magento_Cms
 Something went wrong while saving the block.,Щось пішло не так при збереженні блоку.,module,Magento_Cms
 The page has been deleted.,Сторінка була вилучена.,module,Magento_Cms
 We can't find a page to delete.,Ми не можемо знайти сторінку для видалення.,module,Magento_Cms
-This page no longer exists.,немає Ця сторінка більше не існує.,module,Magento_Cms
+This page no longer exists.,Ця сторінка більше не існує.,module,Magento_Cms
 Edit Page,редагувати сторінку,module,Magento_Cms
 New Page,Нова сторінка,module,Magento_Cms
 Pages,Сторінки,module,Magento_Cms
@@ -1719,7 +1719,7 @@ Step 4: Summary,Крок 4: Резюме,module,Magento_ConfigurableProduct
 Edit Configurations,зміна конфігурації,module,Magento_ConfigurableProduct
 Upload Image,Завантажити зображення,module,Magento_ConfigurableProduct
 Upload image,Завантажити зображення,module,Magento_ConfigurableProduct
-No Image,немає зображення,module,Magento_ConfigurableProduct
+No Image,Немає зображення,module,Magento_ConfigurableProduct
 Choose a different Product,Виберіть інший продукт,module,Magento_ConfigurableProduct
 Remove Product,Видалити товар,module,Magento_ConfigurableProduct
 Create Product Configurations,Створення конфігурації продукту,module,Magento_ConfigurableProduct
@@ -3008,7 +3008,7 @@ Other items in your order,Інші товари в вашому замовлен
 Edit Items,зміна елементів,module,Magento_Multishipping
 Shipping is not applicable.,Доставка не застосовується.,module,Magento_Multishipping
 Product Name,Назва Продукту,module,Magento_Multishipping
-Check Out with Multiple Addresses,Перевірити з декількома адресами,module,Magento_Multishipping
+Check Out with Multiple Addresses,Доставка на декілька адрес,module,Magento_Multishipping
 Address %1 <span>of %2</span>,Адреса %1 <span>з %2</span>,module,Magento_Multishipping
 Shipping To,доставка Для,module,Magento_Multishipping
 Shipping Method,Спосіб доставки,module,Magento_Multishipping
@@ -6023,6 +6023,7 @@ Place Order,Зробити замовлення,module,Magento_Braintree
 Attention: Captcha is case sensitive.,Увага: Captcha чутливий до регістру.,module,Magento_Captcha
 Payment Transaction Failed Reminder,Оплата Збій операції Нагадування,module,Magento_Checkout
 Payment Transaction Failed,Оплата угоди Failed,module,Magento_Checkout
+Are you sure you would like to remove this item from the shopping cart?, Ви дійсно бажаете видалити товар з кошика?,module,Magento_Checkout
 Reason,причина,module,Magento_Checkout
 Checkout Type,Оформити замовлення Тип,module,Magento_Checkout
 Customer:,Замовник:,module,Magento_Checkout
