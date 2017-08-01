@@ -2144,7 +2144,7 @@ Create an Account,Створити обліковий запис,module,Magento_
 Set a New Password,Встановити новий пароль,module,Magento_Customer
 You have signed out and will go to our homepage in 5 seconds.,"Ви підписали, і підете на нашу домашню сторінку протягом 5 секунд.",module,Magento_Customer
 New Customers,Нові Покупці,module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Створення облікового запису має багато переваг: перевірити швидше, тримати більше одного адреси, відстежувати замовлення і багато іншого.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Створення облікового запису має багато переваг: швидше оформлювати замовлення, зберігати декілько адрес, відстежувати замовлення і багато іншого.",module,Magento_Customer
 Gender,Стать,module,Magento_Customer
 Name,Им`я,module,Magento_Customer
 Tax/VAT number,Податки / ПДВ номер,module,Magento_Customer
@@ -3909,7 +3909,7 @@ Product,Продукт,module,Magento_Review
 Product Rating,Популярність продукту,module,Magento_Review
 Status,Статус,module,Magento_Review
 Visibility,Видимість,module,Magento_Review
-Nickname,кличка,module,Magento_Review
+"Nickname","Ім'я",module,Magento_Review
 Summary of Review,резюме огляду,module,Magento_Review
 Review,Відгук,module,Magento_Review
 Previous,Попередній,module,Magento_Review
@@ -4019,7 +4019,7 @@ Write Your Own Review,Напишіть власний відгук,module,Magent
 You're reviewing:,Ви пишете відгук про товар:,module,Magento_Review
 Your Rating,Ваша оцінка,module,Magento_Review
  %1 %2,%1 %2,module,Magento_Review
-Summary,Підсумок,module,Magento_Review
+Summary,"Ваша оцінка",module,Magento_Review
 Submit Review,Додати відгук,module,Magento_Review
 "Only registered users can write reviews. Please <a href=""%1"">Sign in</a> or <a href=""%2"">create an account</a>","Тільки зареєстровані користувачі можуть залишати відгуки. Будь ласка, <a href=""%1"">Увійдіть</a> або <a href=""%2"">створіть обліковий запис</a>",module,Magento_Review
 Add Your Review,Додати відгук,module,Magento_Review
