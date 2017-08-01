@@ -8616,4 +8616,5 @@ Excel XML,Excel XML,module,Magento_Ui
 USPS,USPS,module,Magento_Usps
 Machinable,Machinable,module,Magento_Usps
 Magento Web API,Magento Web API,module,Magento_Webapi
-"Please enter the same value again","Паролі не співпадають, спробуйте ще", module, Magento_Customer 
+"Please enter the same value again","Паролі не співпадають, спробуйте ще", module, Magento_Customer
+"Forgot Password","Відновлення паролю",module,Magento_Customer
