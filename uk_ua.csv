@@ -6973,7 +6973,7 @@ Change status,Змінити стан,module,Magento_Catalog
 Enable,Увімкнути,module,Magento_Catalog
 Disable,Вимкнути,module,Magento_Catalog
 Update attributes,Оновити атрибути,module,Magento_Catalog
-none,немає,module,Magento_Catalog
+none,немає відгуків,module,Magento_Catalog
 Overview,Огляд,module,Magento_Catalog
 Details,Особливості,module,Magento_Catalog
 Terms & Conditions,Правила та умови,module,Magento_CheckoutAgreements
