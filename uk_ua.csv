@@ -2144,7 +2144,7 @@ Create an Account,Створити обліковий запис,module,Magento_
 Set a New Password,Встановити новий пароль,module,Magento_Customer
 You have signed out and will go to our homepage in 5 seconds.,"Ви підписали, і підете на нашу домашню сторінку протягом 5 секунд.",module,Magento_Customer
 New Customers,Нові Покупці,module,Magento_Customer
-"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Створення облікового запису має багато переваг: швидше оформлювати замовлення, зберігати декілько адрес, відстежувати замовлення і багато іншого.",module,Magento_Customer
+"Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Створення облікового запису має багато переваг: швидке оформлення замовлення, можливість зберігати декілько адрес, відстежування замовлення і багато іншого.",module,Magento_Customer
 Gender,Стать,module,Magento_Customer
 Name,Им`я,module,Magento_Customer
 Tax/VAT number,Податки / ПДВ номер,module,Magento_Customer
@@ -4825,14 +4825,14 @@ Print Invoice,Друк рахунку-фактури,module,Magento_Sales
 Qty Invoiced,К-ть виставлених рахунків,module,Magento_Sales
 Close,Закрити,module,Magento_Sales
 About Your Order,Про вашому замовленні,module,Magento_Sales
-"<span class=""label"">Order Date:</span> %1","<Проліт клас = ""мітка""> Дата замовлення: </span> %1",module,Magento_Sales
+"<span class=""label"">Order Date:</span> %1","<span class=""label"">Дата замовлення: </span> %1",module,Magento_Sales
 Refund # %1,Повернення # %1,module,Magento_Sales
 Shipment # %1,Пересилання # %1,module,Magento_Sales
 Qty Shipped,Відправлена к-сть,module,Magento_Sales
 Recent Orders,останні замовлення,module,Magento_Sales
 View All,Подивитись все,module,Magento_Sales
 Gift Message for This Order,Подарунок повідомлення для цього замовлення,module,Magento_Sales
-Recently Ordered,нещодавно замовлені,module,Magento_Sales
+Recently Ordered,Нещодавно замовлені,module,Magento_Sales
 Add to Cart,Додати в кошик,module,Magento_Sales
 Search,Пошук,module,Magento_Sales
 Search Term,Пошук Term,module,Magento_Search
@@ -8619,3 +8619,6 @@ Magento Web API,Magento Web API,module,Magento_Webapi
 "Please enter the same value again","Паролі не співпадають, спробуйте ще", module, Magento_Customer
 "Forgot Password","Відновлення паролю",module,Magento_Customer
 "Forgot Your Password","Відновити пароль",module,Magento_Customer
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Мінімальна довжина цього поля має бути не менше або дорівнювати %1 символів. Пробіли на початку та кінці строки будуть ігноруватися.",module,Magento_Customer
+"Please enter the same value again.","Будь ласка, введіть те саме значення знову",module,Magento_Customer
+
