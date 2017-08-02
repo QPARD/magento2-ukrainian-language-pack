@@ -5948,7 +5948,7 @@ Can't update wish list,Неможливо оновити список побаж
 We can't update your Wish List right now.,Ми не можемо оновити список бажань прямо зараз.,module,Magento_Wishlist
 The requested Wish List doesn't exist.,Запитуваний Список бажань не існує.,module,Magento_Wishlist
 We can't create the Wish List right now.,Ми не можемо створити список бажань прямо зараз.,module,Magento_Wishlist
- %1 items, %1 товарів,module,Magento_Wishlist
+"%1 items","%1 товарів",module,Magento_Wishlist
 1 item,1 товар,module,Magento_Wishlist
 Comment,Коментар,module,Magento_Wishlist
 Display number of items in wish list,Показати кількість елементів у списку бажань,module,Magento_Wishlist
