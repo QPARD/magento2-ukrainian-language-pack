@@ -1414,11 +1414,11 @@ Wrong minimum amount.,Неправильний мінімальний розмі
 Message,Повідомлення,module,Magento_Checkout
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Роздрукувати квитанцію</a>",module,Magento_Checkout
 Apply Discount Code,Застосувати код знижки,module,Magento_Checkout
-Enter discount code,Введите код купона,module,Magento_Checkout
+Enter discount code,Введіть код купона,module,Magento_Checkout
 Apply Discount,Застосувати знижку,module,Magento_Checkout
 Cancel Coupon,Відмінити купон,module,Magento_Checkout
 Shopping Cart Items,Товари у кошику,module,Magento_Checkout
-Item,Елемент,module,Magento_Checkout
+Item,Товар,module,Magento_Checkout
 Price,Ціна,module,Magento_Checkout
 Qty,Кількість,module,Magento_Checkout
 Subtotal,Проміжні підсумки,module,Magento_Checkout
@@ -1442,7 +1442,7 @@ Proceed to Checkout,оформити замовлення,module,Magento_Checkou
 Product Name,Назва Продукту,module,Magento_Checkout
 Incl. Tax,З податками,module,Magento_Checkout
 Your order number is: %1.,Ваш номер замовлення: %1.,module,Magento_Checkout
-Your order # is: <span>%1</span>.,Ваше замовлення # є: <span>%1</span>.,module,Magento_Checkout
+Your order # is: <span>%1</span>.,Ваше замовлення #: <span>%1</span>.,module,Magento_Checkout
 We'll email you an order confirmation with details and tracking info.,Ми надішлемо вам електронного листа для підтвердження замовлення з подробицями і інформацією для відстеження.,module,Magento_Checkout
 Static Blocks,статичні блоки,module,Magento_Cms
 Add New Block,Додати новий блок,module,Magento_Cms
@@ -2142,7 +2142,7 @@ Sign-in Information,Вхід в систему інформації,module,Magen
 Confirm Password,Підтвердження пароля,module,Magento_Customer
 Create an Account,Створити обліковий запис,module,Magento_Customer
 Set a New Password,Встановити новий пароль,module,Magento_Customer
-You have signed out and will go to our homepage in 5 seconds.,"Ви підписали, і підете на нашу домашню сторінку протягом 5 секунд.",module,Magento_Customer
+You have signed out and will go to our homepage in 5 seconds.,Ви вийшли, і будете перенаправлені на нашу домашню сторінку протягом 5 секунд.",module,Magento_Customer
 New Customers,Нові Покупці,module,Magento_Customer
 "Creating an account has many benefits: check out faster, keep more than one address, track orders and more.","Створення облікового запису має багато переваг: швидке оформлення замовлення, можливість зберігати декілько адрес, відстежування замовлення і багато іншого.",module,Magento_Customer
 Gender,Стать,module,Magento_Customer
@@ -2237,8 +2237,8 @@ Upload Files,Завантажити файли,module,Magento_Downloadable
 All Files,Всі файли,module,Magento_Downloadable
 Unlimited,необмежений,module,Magento_Downloadable
 Something went wrong while getting the requested content.,"Щось пішло не так, отримуючи необхідний контент.",module,Magento_Downloadable
-My Downloadable Products,Мої Викачувані товари,module,Magento_Downloadable
-We can't find the link you requested.,"Ми не можемо знайти посилання, яку запитували.",module,Magento_Downloadable
+My Downloadable Products,Мої елекронні товари,module,Magento_Downloadable
+We can't find the link you requested.,"Ми не можемо знайти посилання, яке запитували.",module,Magento_Downloadable
 "Please sign in to download your product or purchase <a href=""%1"">%2</a>.","Будь ласка, увійдіть в систему, щоб завантажити ваш продукт або придбати <a href=""%1"">%2 </a>.",module,Magento_Downloadable
 Please sign in to download your product.,"Будь ласка, увійдіть в систему, щоб завантажити продукт.",module,Magento_Downloadable
 The link has expired.,Посилання минув.,module,Magento_Downloadable
@@ -2317,7 +2317,7 @@ Status,Статус,module,Magento_Downloadable
 Remaining Downloads,залишаються Завантаження,module,Magento_Downloadable
 View Order,Перегляд замовлення,module,Magento_Downloadable
 Start Download,почати завантаження,module,Magento_Downloadable
-You have not purchased any downloadable products yet.,Ви не набули ніяких завантажуються продуктів ще.,module,Magento_Downloadable
+You have not purchased any downloadable products yet.,У Вас немає електроних товарів.,module,Magento_Downloadable
 Back,Назад,module,Magento_Downloadable
 download,скачати,module,Magento_Downloadable
 Gift Message,Подарункове повідомлення,module,Magento_Downloadable
@@ -2899,7 +2899,7 @@ Position in Layered Navigation,Позиція в шаруватої навіга
 Position of attribute in layered navigation block.,Положення атрибута в шаруватої навігаційному блоці.,module,Magento_LayeredNavigation
 item,елемент,module,Magento_LayeredNavigation
 items,елементи,module,Magento_LayeredNavigation
-Now Shopping by,Тепер покупки за,module,Magento_LayeredNavigation
+Now Shopping by,Відфільтровано за,module,Magento_LayeredNavigation
 Previous,Попередній,module,Magento_LayeredNavigation
 Remove,Вилучити,module,Magento_LayeredNavigation
 Remove This Item,Видалити Цей Елемент,module,Magento_LayeredNavigation
@@ -3693,7 +3693,7 @@ This is the wrong quote item id to update configuration.,"Це неправил�
 The address model is not defined.,Адреса модель не визначена.,module,Magento_Quote
 Grand Total,загальний підсумок,module,Magento_Quote
 Shipping & Handling (%1),Доставка і обробка ( %1),module,Magento_Quote
-Shipping & Handling,Доставка & Handling,module,Magento_Quote
+Shipping & Handling,Доставка & пакування,module,Magento_Quote
 Shipping,Доставка,module,Magento_Quote
 Subtotal,Проміжні підсумки,module,Magento_Quote
 We found an invalid item option format.,Ми знайшли невірний формат параметра елемента.,module,Magento_Quote
@@ -4360,7 +4360,7 @@ Subtotal,Проміжні підсумки,module,Magento_Sales
 Shipping & Handling,Доставка & Handling,module,Magento_Sales
 Discount (%1),Знижка ( %1),module,Magento_Sales
 Discount,Знижка,module,Magento_Sales
-Grand Total,загальний підсумок,module,Magento_Sales
+Grand Total,Загальний підсумок,module,Magento_Sales
 Back,Назад,module,Magento_Sales
 Fetch,отримувати,module,Magento_Sales
 Transaction # %1 | %2,Угода # %1 | %2,module,Magento_Sales
@@ -4573,12 +4573,12 @@ Authorization,авторизація,module,Magento_Sales
 Please set a proper payment and order id.,"Будь ласка, виберіть відповідний оплати і ідентифікатор замовлення.",module,Magento_Sales
 Please enter a Transaction ID.,"Будь ласка, введіть ідентифікатор транзакції.",module,Magento_Sales
 You can't do this without a transaction object.,Ви не можете зробити це без об'єкта угоди.,module,Magento_Sales
-Order # ,замовлення #,module,Magento_Sales
+Order # ,Замовлення #,module,Magento_Sales
 Order Date: ,Дата замовлення:,module,Magento_Sales
 Sold to:,Проданий:,module,Magento_Sales
 Ship to:,Доставити до:,module,Magento_Sales
 Payment Method:,Спосіб оплати:,module,Magento_Sales
-Shipping Method:,Спосід доставки:,module,Magento_Sales
+Shipping Method:,Спосіб доставки:,module,Magento_Sales
 Total Shipping Charges,Всього витрати з доставки,module,Magento_Sales
 Title,Назва,module,Magento_Sales
 Number,Номер,module,Magento_Sales
@@ -4591,7 +4591,7 @@ Qty,Кількість,module,Magento_Sales
 Tax,Податок,module,Magento_Sales
 Total (inc),Разом (вкл),module,Magento_Sales
 Credit Memo # ,Кредитове авізо #,module,Magento_Sales
-Invoice # ,рахунок #,module,Magento_Sales
+Invoice # ,Рахунок #,module,Magento_Sales
 The order object is not specified.,Об'єкт порядок не визначено.,module,Magento_Sales
 The source object is not specified.,Об'єкт джерело не вказано.,module,Magento_Sales
 An item object is not specified.,Об'єкт пункт не зазначений.,module,Magento_Sales
@@ -4689,7 +4689,7 @@ Apply,Застосувати,module,Magento_Sales
 Remove Coupon Code,Видалити код купона,module,Magento_Sales
 Remove,Вилучити,module,Magento_Sales
 Address Information,Адресна інформація,module,Magento_Sales
-Payment &amp; Shipping Information,Оплата &amp; Інформація Доставка,module,Magento_Sales
+Payment &amp; Shipping Information,Оплата &amp; Інформація Доставки,module,Magento_Sales
 Order Total,Всього,module,Magento_Sales
 Order Currency:,Валюта замовлення:,module,Magento_Sales
 Same As Billing Address,Те ж стосується Адреса виставлення рахунку,module,Magento_Sales
@@ -4717,7 +4717,7 @@ Get shipping methods and rates,Отримати методи доставки і
 You don't need to select a shipping method.,"Вам не потрібно, щоб вибрати спосіб доставки.",module,Magento_Sales
 Customer's Activities,діяльність замовника,module,Magento_Sales
 Refresh,Оновити,module,Magento_Sales
-Item,Елемент,module,Magento_Sales
+Item,Товар,module,Magento_Sales
 Add To Order,Додати до замовлення,module,Magento_Sales
 Configure and Add to Order,Налагодження та додати в замовлення,module,Magento_Sales
 No items,елементів немає,module,Magento_Sales
@@ -4731,7 +4731,7 @@ Payment &amp; Shipping Method,Оплата &amp; метод доставки,mod
 Payment Information,Інформація з оплати,module,Magento_Sales
 The order was placed using %1.,Замовлення було зроблено з використанням %1 .,module,Magento_Sales
 Shipping Information,Інформація Доставка,module,Magento_Sales
-Items to Refund,Елементи для повернення,module,Magento_Sales
+Items to Refund,Товари для повернення,module,Magento_Sales
 Return to Stock,Повернутися в наявності,module,Magento_Sales
 Qty to Refund,Кількість для повернення,module,Magento_Sales
 Tax Amount,сума податку,module,Magento_Sales
@@ -4798,7 +4798,7 @@ Is Closed,Зачинено,module,Magento_Sales
 Created At,створено В,module,Magento_Sales
 Child Transactions,Операції по догляду за дітьми,module,Magento_Sales
 Transaction Details,подробиці по угоді,module,Magento_Sales
-Items,Елементи,module,Magento_Sales
+Items,Товари,module,Magento_Sales
 Gift Message for this Order,Подарунок повідомлення для цього замовлення,module,Magento_Sales
 Shipped By,занурено,module,Magento_Sales
 Tracking Number,відстежуючи номер,module,Magento_Sales
@@ -4943,6 +4943,7 @@ Cookie (unsafe),Печиво (небезпечно),module,Magento_SendFriend
 No Product Exception.,Немає винятків продукту.,module,Magento_SendFriend
 No Category Exception.,Ні Категорія Exception.,module,Magento_SendFriend
 Some error,деякі помилки,module,Magento_SendFriend
+Unable to send mail. ,Не вдається відправити пошту. ,module,Magento_SendFriend
 Localized Exception.,Локалізовані Exception.,module,Magento_SendFriend
 Exception.,Виняток.,module,Magento_SendFriend
 Remove Recipent,видалити Recipent,module,Magento_SendFriend
@@ -4954,7 +4955,7 @@ Sender,Відправник,module,Magento_SendFriend
 Message,Повідомлення,module,Magento_SendFriend
 Invitee,Запрошений,module,Magento_SendFriend
 Maximum %1 email addresses allowed.,Максимум %1 адреса електронної пошти допускається.,module,Magento_SendFriend
-Add Invitee,Додати INVITEE,module,Magento_SendFriend
+Add Invitee,Додати запрошеного,module,Magento_SendFriend
 Send Email,Відправити лист,module,Magento_SendFriend
 Back,Назад,module,Magento_SendFriend
 New Shipment for Order # %1,Нова пересилання для замовлення # %1,module,Magento_Shipping
@@ -6005,13 +6006,13 @@ Sharing Information,Поділитися інформацією,module,Magento_W
 "Email addresses, separated by commas","Адреси електронної пошти, розділені комами",module,Magento_Wishlist
 Check here to link an RSS feed to your Wish List.,"Перевірте тут, щоб зв'язати RSS-канал до свого списку побажань.",module,Magento_Wishlist
 Last Added Items,Останні додані товари,module,Magento_Wishlist
-Remove This Item,Видалити Цей Елемент,module,Magento_Wishlist
+Remove This Item,Видалити цей товар,module,Magento_Wishlist
 Go to Wish List,Перейти до списку побажань,module,Magento_Wishlist
 You have no items in your wish list.,У вас немає товарів у списку побажань.,module,Magento_Wishlist
 Now Shopping by,Тепер покупки за,theme,frontend/Magento/luma
 Previous,Попередній,theme,frontend/Magento/luma
 Remove,Вилучити,theme,frontend/Magento/luma
-Remove This Item,Видалити Цей Елемент,theme,frontend/Magento/luma
+Remove This Item,Видалити цей товар,theme,frontend/Magento/luma
 Shop By,Продукція за,theme,frontend/Magento/luma
 Clear All,Очистити всі,theme,frontend/Magento/luma
 Shopping Options,Варіанти товарів,theme,frontend/Magento/luma
@@ -6027,7 +6028,7 @@ Are you sure you would like to remove this item from the shopping cart?, Ви д
 Reason,причина,module,Magento_Checkout
 Checkout Type,Оформити замовлення Тип,module,Magento_Checkout
 Customer:,Замовник:,module,Magento_Checkout
-Items,Елементи,module,Magento_Checkout
+Items,Товари,module,Magento_Checkout
 Total:,Всього:,module,Magento_Checkout
 Billing Address:,Адреса виставлення рахунку:,module,Magento_Checkout
 Shipping Address:,Адреса доставки:,module,Magento_Checkout
@@ -6310,7 +6311,7 @@ This payment is not available,Цей платіж не доступний,module
 MM,М.М.,module,Magento_Braintree
 Please try again with another form of payment.,"Будь-ласка, повторіть спробу з іншою формою оплати.",module,Magento_Braintree
 "Sorry, but something went wrong.","Вибачте, але щось пішло не так.",module,Magento_Braintree
-Payment ,оплата,module,Magento_Braintree
+Payment ,Оплата ,module,Magento_Braintree
 Add Products to New Option,Додати товари до нової опції,module,Magento_Bundle
 "Add Products to Option ""%1""","Додати товари до опції ""%1""",module,Magento_Bundle
 Warning message,Попереджувальне повідомлення,module,Magento_Catalog
@@ -7206,7 +7207,7 @@ Disable Automatic Group Change Based on VAT ID,Відключення автом
 Send Welcome Email From,Надіслати Welcome Email Від,module,Magento_Customer
 Addresses,адреси,module,Magento_Customer
 Are you sure you want to delete this item?,"Ви впевнені, що хочете видалити цей пункт?",module,Magento_Customer
-Account Dashboard,Dashboard рахунки,module,Magento_Customer
+Account Dashboard,Моя інформаційна дошка,module,Magento_Customer
 Edit Account Information,редагувати інформацію,module,Magento_Customer
 Password forgotten,забули пароль,module,Magento_Customer
 My Dashboard,Мій Dashboard,module,Magento_Customer
@@ -7780,7 +7781,7 @@ Default Rule Label for All Store Views,Default Rule Метка для всіх �
 Operations,операції,module,Magento_Sales
 Create,створити,module,Magento_Sales
 Send Order Email,Відправити замовлення на e-mail,module,Magento_Sales
-Accept or Deny Payment,Прийняти або Відхилити Оплата,module,Magento_Sales
+Accept or Deny Payment,Прийняти або Відхилити Оплату,module,Magento_Sales
 Send Sales Emails,Надіслати повідомлення електронної пошти з продажу,module,Magento_Sales
 Sales Section,розділ продажів,module,Magento_Sales
 Sales Emails Section,Розділ продажів Листи,module,Magento_Sales
