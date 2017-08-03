@@ -6464,3 +6464,4 @@ Please enter 6 or more characters. Leading and trailing spaces will be ignored.,
 "Please enter 7 or more characters, using both numeric and alphabetic.","Будь ласка, введіть 7 або більше символів, використовуючи як числові і літерні.",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","Будь ласка, введіть правильний URL. Протокол потрібно (HTTP: //, https: // або FTP: //).",module,Magento_Ui
 Please enter a valid URL. For example http://www.example.com or www.example.com.,"Будь ласка, введіть правильний URL. Так, наприклад http://www.example.com або www.example.com.",module,Magento_Ui
+Newsletter Subscriptions,Підписка на новини,module,Magento_Newsletter
