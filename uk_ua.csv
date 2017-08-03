@@ -1297,9 +1297,9 @@ We found other products you might like!,"Ми знайшли інші товар
 More Choices:,Більше варіантів:,module,Magento_Catalog
 Check items to add to the cart or,"Позначте елементи, які додати до кошика, або",module,Magento_Catalog
 select all,вибрати все,module,Magento_Catalog
-"Items %1-%2 of %3 ","Позиції %1-%2 з %3 ",module,Magento_Catalog
- %1 Item, %1 елемент,module,Magento_Catalog
- %1 Items, %1 елементи(ів),module,Magento_Catalog
+Items %1-%2 of %3,Позиції %1-%2 з %3,module,Magento_Catalog
+%1 Item,%1 ел.,module,Magento_Catalog
+%1 Items,%1 елементи(ів),module,Magento_Catalog
 Show,Показати,module,Magento_Catalog
 per page,на сторінку,module,Magento_Catalog
 Sort By,Сортувати за,module,Magento_Catalog
