@@ -1275,7 +1275,7 @@ Regular Price,Звичайна ціна,module,Magento_Catalog
 Buy %1 for: ,Купити %1 для:,module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3 "">&nbsp;%4</span>%</strong>","Придбати %1 по %2 за одиницю та <strong class=""benefit"">заощадити<span class=""percent tier-%3 "">&nbsp;%4</span>%</strong>",module,Magento_Catalog
 Buy %1 for %2 each,Придбати %1 по %2 за одиницю,module,Magento_Catalog
-Shop By,Продукція за,module,Magento_Catalog
+Shop By,Фільтр,module,Magento_Catalog
 Shopping Options,Варіанти товарів,module,Magento_Catalog
 Compare Products,Порівняти товари,module,Magento_Catalog
 Print This Page,Розрудукувати цю сторінку,module,Magento_Catalog
@@ -1302,7 +1302,7 @@ Items %1-%2 of %3,Позиції %1-%2 з %3,module,Magento_Catalog
 %1 Items,%1 елементи(ів),module,Magento_Catalog
 Show,Показати,module,Magento_Catalog
 per page,на сторінку,module,Magento_Catalog
-Sort By,Сортувати за,module,Magento_Catalog
+Sort By,Сортувати,module,Magento_Catalog
 Set Ascending Direction,Сортувати у порядку зменшення,module,Magento_Catalog
 Set Descending Direction,Сортувати у порядку збільшення,module,Magento_Catalog
 View as,Відобразити як,module,Magento_Catalog
@@ -1439,7 +1439,7 @@ Excl. Tax,Без податків,module,Magento_Checkout
 Loading...,Завантаження...,module,Magento_Checkout
 Order #,Замовлення #,module,Magento_Checkout
 Proceed to Checkout,оформити замовлення,module,Magento_Checkout
-Product Name,Назва Продукту,module,Magento_Checkout
+Product Name,Назва,module,Magento_Checkout
 Incl. Tax,З податками,module,Magento_Checkout
 Your order number is: %1.,Ваш номер замовлення: %1.,module,Magento_Checkout
 Your order # is: <span>%1</span>.,Ваше замовлення #: <span>%1</span>.,module,Magento_Checkout
