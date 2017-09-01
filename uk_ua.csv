@@ -2903,7 +2903,7 @@ Now Shopping by,Відфільтровано за,module,Magento_LayeredNavigati
 Previous,Попередній,module,Magento_LayeredNavigation
 Remove,Вилучити,module,Magento_LayeredNavigation
 Remove This Item,Видалити Цей Елемент,module,Magento_LayeredNavigation
-Shop By,Продукція за,module,Magento_LayeredNavigation
+Shop By,Фільтр,module,Magento_LayeredNavigation
 Clear All,Очистити всі,module,Magento_LayeredNavigation
 Shopping Options,Варіанти товарів,module,Magento_LayeredNavigation
 Partners,Партнери,module,Magento_Marketplace
@@ -6013,7 +6013,7 @@ Now Shopping by,Тепер покупки за,theme,frontend/Magento/luma
 Previous,Попередній,theme,frontend/Magento/luma
 Remove,Вилучити,theme,frontend/Magento/luma
 Remove This Item,Видалити цей товар,theme,frontend/Magento/luma
-Shop By,Продукція за,theme,frontend/Magento/luma
+Shop By,Фільтр,theme,frontend/Magento/luma
 Clear All,Очистити всі,theme,frontend/Magento/luma
 Shopping Options,Варіанти товарів,theme,frontend/Magento/luma
 Place Order,Зробити замовлення,module,Magento_Authorizenet
