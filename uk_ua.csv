@@ -98,7 +98,7 @@ Invalidated,Визнано недійсним,module,Magento_Backend
 Orders,Замовлення,module,Magento_Backend
 Amounts,Суми,module,Magento_Backend
 Bestsellers,Лідери продажів,module,Magento_Backend
-Most Viewed Products,Найбільш Просмотрювані Товари,module,Magento_Backend
+Most Viewed Products,Товари, які найбільше переглядають,module,Magento_Backend
 New Customers,Нові Покупці,module,Magento_Backend
 Customers,Покупці,module,Magento_Backend
 Customer,Покупець,module,Magento_Backend
@@ -326,7 +326,7 @@ Browse Files...,Перегляд Файлів...,module,Magento_Backend
 "Copyright &copy; %1 Magento, Inc. All rights reserved.","Авторське право  &copy; %1 Magento, Inc. Всі права захищені.",module,Magento_Backend
 ver. %1,вер. %1,module,Magento_Backend
 Magento Admin Panel,Панель Адміністрування Magento,module,Magento_Backend
-Account Setting,Нашалштування Облікового Запису,module,Magento_Backend
+Account Setting,Нашлаштування облікового запису,module,Magento_Backend
 Customer View,Очима Покупця,module,Magento_Backend
 Sign Out,Вийти,module,Magento_Backend
 About the calendar,Про календар,module,Magento_Backend
@@ -2317,7 +2317,7 @@ Status,Статус,module,Magento_Downloadable
 Remaining Downloads,залишаються Завантаження,module,Magento_Downloadable
 View Order,Перегляд замовлення,module,Magento_Downloadable
 Start Download,почати завантаження,module,Magento_Downloadable
-You have not purchased any downloadable products yet.,У Вас немає електроних товарів.,module,Magento_Downloadable
+You have not purchased any downloadable products yet.,У Вас немає електронних товарів.,module,Magento_Downloadable
 Back,Назад,module,Magento_Downloadable
 download,скачати,module,Magento_Downloadable
 Gift Message,Подарункове повідомлення,module,Magento_Downloadable
@@ -3227,7 +3227,7 @@ We'll ask for your payment details before you place an order.,"Ми будемо
 Card Verification Number Visual Reference,Номер карти Verification Візуальна Посилання,module,Magento_Payment
 What is this?,Що це?,module,Magento_Payment
 Credit Card Information,Дані Кредитної Картки,module,Magento_Payment
-Billing Agreements,Біллінгові умови,module,Magento_Paypal
+Billing Agreements,Білінгові умови,module,Magento_Paypal
 ID,Ідентифікатор,module,Magento_Paypal
 Email,Електронна пошта,module,Magento_Paypal
 First Name,Ім'я,module,Magento_Paypal
@@ -4682,7 +4682,7 @@ Visible on Storefront,Відомий на Сторінці,module,Magento_Sales
 Customer,Покупець,module,Magento_Sales
 Notified,заявлений,module,Magento_Sales
 Not Notified,Чи не Заявлений,module,Magento_Sales
-No Payment Methods,Ні Способи оплати,module,Magento_Sales
+No Payment Methods,Немає способів оплати,module,Magento_Sales
 Order Comments,Замовити Коментарі,module,Magento_Sales
 Apply Coupon Code,Застосувати Код Купона,module,Magento_Sales
 Apply,Застосувати,module,Magento_Sales
@@ -6103,12 +6103,12 @@ Thank you for confirming your %store_name account.,Дякуємо Вам за п
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Для того, щоб увійти в наш сайт і встановити пароль, натисніть на <a href=""%create_password_url""> посилання </a>:",module,Magento_Customer
 Your %store_name email has been changed,Ваш %store_name електронної пошти змінений,module,Magento_Customer
 "Hello,","Здравствуйте,",module,Magento_Customer
-We have received a request to change the following information associated with your account at %store_name: email.,"Ми отримали запит на зміну такої інформації, пов'язану з вашим обліковим записом в %store_name: по електронній пошті.",module,Magento_Customer
+We have received a request to change the following information associated with your account at %store_name: email.,"Ми отримали запит на зміну такої інформації, повʼязану з вашим обліковим записом в %store_name: по електронній пошті.",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Якщо ви не отримали дозвіл на це дія, будь ласка, негайно зв'яжіться з нами за адресою <a href=""mailto:%store_email""> %store_email </a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","або зателефонуйте нам за адресою <a href=""tel:%store_phone""> %store_phone </a>",module,Magento_Customer
 "Thanks,<br>%store_name","Спасибі, <br> %store_name",module,Magento_Customer
 Your %store_name email and password has been changed,Ваш %store_name адреса електронної пошти та пароль був змінений,module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email, password.","Ми отримали запит на зміну такої інформації, пов'язану з вашим обліковим записом в %store_name: адреса електронної пошти, пароль.",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","Ми отримали запит на зміну такої інформації, повʼязану з вашим обліковим записом в %store_name: адреса електронної пошти, пароль.",module,Magento_Customer
 Reset your %store_name password,Скинути пароль %store_name,module,Magento_Customer
 There was recently a request to change the password for your account.,Був недавно запит на зміну пароля для облікового запису.,module,Magento_Customer
 "If you requested this change, set a new password here:","Якщо ви запитували це зміна, встановити новий пароль тут:",module,Magento_Customer
@@ -6219,8 +6219,8 @@ There was recently a request to change the password for your account.,Був н�
 "Thank you,","Дякую,",module,Magento_User
 New %changes for %user_name,Нові  %changes  для %user_name,module,Magento_User
 "Hello,","Здравствуйте,",module,Magento_User
-We have received a request to change the following information associated with your account at %store_name: %changes.,"Ми отримали запит на зміну такої інформації, пов'язану з членством %store_name: %changes.",module,Magento_User
-"If you have not authorized this action, please contact us immediately at %store_email","Якщо ви не давали дозвіл на це дія, будь ласка, негайно зв'яжіться з нами за адресою %store_email",module,Magento_User
+We have received a request to change the following information associated with your account at %store_name: %changes.,"Ми отримали запит на зміну такої інформації, повʼязану з аккаунтом в %store_name: %changes.",module,Magento_User
+"If you have not authorized this action, please contact us immediately at %store_email","Якщо ви не давали дозвіл на ці дії, будь ласка, негайно звʼяжіться з нами за адресою %store_email",module,Magento_User
 or call us at %store_phone,або зателефонуйте нам за адресою %store_phone,module,Magento_User
 "Thanks,","Дякую,",module,Magento_User
 Take a look at %customer_name's Wish List,Подивіться на список побажань %customer_name:,module,Magento_Wishlist
