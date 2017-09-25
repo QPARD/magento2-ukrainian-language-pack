@@ -5822,7 +5822,7 @@ No token found.,Немає маркер не найден.,module,Magento_Vault
 Wrong request.,Неправильний запит.,module,Magento_Vault
 Deletion failure. Please try again.,відмова видалення. Будь ласка спробуйте ще раз.,module,Magento_Vault
 Stored Payment Method was successfully removed,Зберігається Спосіб оплати був успішно видалений,module,Magento_Vault
-Stored Payment Methods,Використовані способи оплати,module,Magento_Vault
+Stored Payment Methods,Використанi способи оплати,module,Magento_Vault
 No available payment tokens for specified order payment.,Немає доступних платіжних токенов для зазначеного оплати замовлення.,module,Magento_Vault
 Card Number,Номер картки,module,Magento_Vault
 Expiration Date,Дата Збігає,module,Magento_Vault
@@ -6032,7 +6032,7 @@ Items,Товари,module,Magento_Checkout
 Total:,Всього:,module,Magento_Checkout
 Billing Address:,Адреса виставлення рахунку:,module,Magento_Checkout
 Shipping Address:,Адреса доставки:,module,Magento_Checkout
-Shipping Method:,Спосід доставки:,module,Magento_Checkout
+Shipping Method:,Спосіб доставки:,module,Magento_Checkout
 Payment Method:,Спосіб оплати:,module,Magento_Checkout
 Date & Time:,"Дата, час:",module,Magento_Checkout
 Sign In,Увійти,module,Magento_Checkout
@@ -6175,7 +6175,7 @@ Your Invoice # %invoice_id for Order # %order_id,Ваш Рахунок # %invoic
 Update to your %store_name invoice,Оновлення до вашого %store_name рахунків,module,Magento_Sales
 Your %store_name order confirmation,Ваше підтвердження замовлення  %store_name%,module,Magento_Sales
 "%customer_name,","%customer_name,",module,Magento_Sales
-Once your package ships we will send you a tracking number.,"Після того, як ваш пакет кораблів ми надішлемо вам номер для відстеження.",module,Magento_Sales
+Once your package ships we will send you a tracking number.,"Після того, як ваше замовлення буде вiдвантажено ми надішлемо вам номер для відстеження.",module,Magento_Sales
 "Your Order <span class=""no-link""># %increment_id</span>","Ваше замовлення <span class=""no-link""># %increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Створений <span class=""no-link"">%created_at</span>",module,Magento_Sales
 Once your package ships we will send an email with a link to track your order.,"Після того, як ваш пакет кораблі ми надішлемо лист з посиланням для відстеження Вашого замовлення.",module,Magento_Sales
