@@ -6122,7 +6122,7 @@ Track order history,Історія замовлень Відстеження,mod
 Check out faster,перевірте швидше,module,Magento_Customer
 Checkout out using your account,"Оформити замовлення, використовуючи свій аккаунт",module,Magento_Customer
 Email Address,Адреса електронної пошти,module,Magento_Customer
-Currency Update Warnings,Валюта Оновлення попереджень,module,Magento_Directory
+Currency Update Warnings,Попередження: валюта була оновлена,module,Magento_Directory
 Footer,нижній колонтитул,module,Magento_Email
 "Thank you, %store_name","Дякуємо, %store_name",module,Magento_Email
 Header,заголовок,module,Magento_Email
