@@ -559,7 +559,7 @@ From:,Від:,module,Magento_Bundle
 To:,Кому:,module,Magento_Bundle
 Message:,Повідомлення:,module,Magento_Bundle
 Product Name,Назва Продукту,module,Magento_Bundle
-Subtotal,Проміжні підсумки,module,Magento_Bundle
+Subtotal,Сума,module,Magento_Bundle
 Discount Amount,Сума знижки,module,Magento_Bundle
 Row Total,Підсумок рядка,module,Magento_Bundle
 Qty Invoiced,К-ть виставлених рахунків,module,Magento_Bundle
@@ -1421,7 +1421,7 @@ Shopping Cart Items,Товари у кошику,module,Magento_Checkout
 Item,Товар,module,Magento_Checkout
 Price,Ціна,module,Magento_Checkout
 Qty,Кількість,module,Magento_Checkout
-Subtotal,Проміжні підсумки,module,Magento_Checkout
+Subtotal,Сума,module,Magento_Checkout
 Continue Shopping,Продовжити покупки,module,Magento_Checkout
 Clear Shopping Cart,Очистити кошик,module,Magento_Checkout
 Update Shopping Cart,Оновити кошик,module,Magento_Checkout
@@ -2326,7 +2326,7 @@ To:,Кому:,module,Magento_Downloadable
 Message:,Повідомлення:,module,Magento_Downloadable
 Product Name,Назва Продукту,module,Magento_Downloadable
 Qty,Кількість,module,Magento_Downloadable
-Subtotal,Проміжні підсумки,module,Magento_Downloadable
+Subtotal,,module,Magento_Downloadable
 Discount Amount,Сума знижки,module,Magento_Downloadable
 Row Total,Підсумок рядка,module,Magento_Downloadable
 Qty Invoiced,К-ть виставлених рахунків,module,Magento_Downloadable
@@ -3018,7 +3018,7 @@ Order Review,огляд замовлення,module,Magento_Multishipping
 Item,Елемент,module,Magento_Multishipping
 Edit,Редагувати,module,Magento_Multishipping
 Price,Ціна,module,Magento_Multishipping
-Subtotal,Проміжні підсумки,module,Magento_Multishipping
+Subtotal,Сума,module,Magento_Multishipping
 Items,Елементи,module,Magento_Multishipping
 Grand Total:,Загальний підсумок:,module,Magento_Multishipping
 Submitting order information...,Передача інформації про замовлення ...,module,Magento_Multishipping
@@ -3615,7 +3615,7 @@ Submitting order information...,Передача інформації про з�
 Item,Елемент,module,Magento_Paypal
 Price,Ціна,module,Magento_Paypal
 Qty,Кількість,module,Magento_Paypal
-Subtotal,Проміжні підсумки,module,Magento_Paypal
+Subtotal,Сума,module,Magento_Paypal
 Please update order data to get shipping methods and rates,"Будь ласка, поновіть дані замовлення, щоб отримати методи і вартість доставки",module,Magento_Paypal
 or,або,module,Magento_Paypal
 Checkout with PayPal,Контракт з PayPal,module,Magento_Paypal
@@ -3695,7 +3695,7 @@ Grand Total,загальний підсумок,module,Magento_Quote
 Shipping & Handling (%1),Доставка і обробка ( %1),module,Magento_Quote
 Shipping & Handling,Доставка & пакування,module,Magento_Quote
 Shipping,Доставка,module,Magento_Quote
-Subtotal,Проміжні підсумки,module,Magento_Quote
+Subtotal,Сума,module,Magento_Quote
 We found an invalid item option format.,Ми знайшли невірний формат параметра елемента.,module,Magento_Quote
 An item option with code %1 already exists.,Опціон елемент з кодом %1 вже існує.,module,Magento_Quote
 Item qty declaration error,Пункт помилка кількість декларації,module,Magento_Quote
@@ -3777,7 +3777,7 @@ Products Reviews,Продукція Відгуки,module,Magento_Reports
 Products Bestsellers Report,Продукти Бестселери Повідомити,module,Magento_Reports
 Order Quantity,кількість замовлення,module,Magento_Reports
 Coupons Usage Report,Купони Звіт про використання,module,Magento_Reports
-Subtotal,Проміжні підсумки,module,Magento_Reports
+Subtotal,Сума,module,Magento_Reports
 Coupon Code,купон,module,Magento_Reports
 Price Rule,Ціна Rule,module,Magento_Reports
 Uses,Використовує,module,Magento_Reports
@@ -4146,7 +4146,7 @@ To Percentage,процентному,module,Magento_SalesRule
 By Fixed value,За фіксованою вартістю,module,Magento_SalesRule
 By Percentage,процентне,module,Magento_SalesRule
 Update product's %1 %2: %3 ,Update продукту %1 %2: %3,module,Magento_SalesRule
-Subtotal,Проміжні підсумки,module,Magento_SalesRule
+Subtotal,Сума,module,Magento_SalesRule
 Total Items Quantity,Всього елементів Кількість,module,Magento_SalesRule
 Total Weight,Загальна вага,module,Magento_SalesRule
 Payment Method,Спосіб оплати,module,Magento_SalesRule
@@ -4356,7 +4356,7 @@ Cart Price Rule,Кошик Ціна Rule,module,Magento_Sales
 Yes,Так,module,Magento_Sales
 No,Ні,module,Magento_Sales
 Show Actual Values,Показати фактичні значення,module,Magento_Sales
-Subtotal,Проміжні підсумки,module,Magento_Sales
+Subtotal,Сума,module,Magento_Sales
 Shipping & Handling,Доставка & Handling,module,Magento_Sales
 Discount (%1),Знижка ( %1),module,Magento_Sales
 Discount,Знижка,module,Magento_Sales
@@ -4683,6 +4683,7 @@ Customer,Покупець,module,Magento_Sales
 Notified,заявлений,module,Magento_Sales
 Not Notified,Чи не Заявлений,module,Magento_Sales
 No Payment Methods,Немає способів оплати,module,Magento_Sales
+Payment Methods,Способи оплати,module,Magento_Payment
 Order Comments,Замовити Коментарі,module,Magento_Sales
 Apply Coupon Code,Застосувати Код Купона,module,Magento_Sales
 Apply,Застосувати,module,Magento_Sales
@@ -5318,7 +5319,7 @@ Shipping (Excl. Tax),Доставка (Excl. Податок),module,Magento_Tax
 Shipping (Incl. Tax),Доставка (вкл. ПДВ),module,Magento_Tax
 Subtotal (Excl. Tax),Разом (Excl. Податок),module,Magento_Tax
 Subtotal (Incl. Tax),Разом (вкл. ПДВ),module,Magento_Tax
-Subtotal,Проміжні підсумки,module,Magento_Tax
+Subtotal,Сума,module,Magento_Tax
 Unit Price,Ціна за одиницю,module,Magento_Tax
 Row Total,Підсумок рядка,module,Magento_Tax
 Total,Загалом,module,Magento_Tax
