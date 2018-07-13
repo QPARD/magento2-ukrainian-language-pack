@@ -2684,7 +2684,6 @@ Check Data,контроль даних,module,Magento_ImportExport
 Import,Імпорт,module,Magento_ImportExport
 Import Settings,імпортувати налаштування,module,Magento_ImportExport
 Import Behavior,імпорт Поведінка,module,Magento_ImportExport
- ,#VALUE!,module,Magento_ImportExport
 Allowed Errors Count,Допустимі помилки Count,module,Magento_ImportExport
 Please specify number of errors to halt import process,"Будь ласка, вкажіть кількість помилок, щоб зупинити процес імпорту",module,Magento_ImportExport
 Field separator,роздільник полів,module,Magento_ImportExport
