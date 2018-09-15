@@ -6105,7 +6105,7 @@ Your %store_name email has been changed,Ваш %store_name електронно�
 "Hello,","Здравствуйте,",module,Magento_Customer
 We have received a request to change the following information associated with your account at %store_name: email.,"Ми отримали запит на зміну такої інформації, повʼязану з вашим обліковим записом в %store_name: адреса електронної пошти",module,Magento_Customer
 "If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","Якщо ви не давали дозвіл на цю дію, будь ласка, негайно зв'яжіться з нами за адресою <a href=""mailto:%store_email""> %store_email </a>",module,Magento_Customer
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","або зателефонуйте нам за адресою <a href=""tel:%store_phone""> %store_phone </a>",module,Magento_Customer
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","або по телефону <a href=""tel:%store_phone""> %store_phone </a>",module,Magento_Customer
 "Thanks,<br>%store_name","Дякуємо, <br> %store_name",module,Magento_Customer
 Your %store_name email and password has been changed,Ваш %store_name адреса електронної пошти та пароль був змінений,module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email, password.","Ми отримали запит на зміну такої інформації, повʼязану з вашим обліковим записом в %store_name: адреса електронної пошти, пароль.",module,Magento_Customer
@@ -6160,10 +6160,10 @@ Apply Discount,Застосувати знижку,module,Magento_SalesRule
 Cancel coupon,Скасувати купон,module,Magento_SalesRule
 Credit memo for your %store_name order,Кредитні авізо для %store_name замовлення,module,Magento_Sales
 "%name,","%name,",module,Magento_Sales
-Thank you for your order from %store_name.,Дякуємо Вам за Ваше замовлення від %store_name.,module,Magento_Sales
+Thank you for your order from %store_name.,Дякуємо за Ваше замовлення на сайті %store_name.,module,Magento_Sales
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Ви можете перевірити статус замовлення по <a протоколювання href=""%account_url""> в свій аккаунт </a>.",module,Magento_Sales
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Якщо у вас є питання з приводу вашого замовлення, ви можете зв'язатися з нами за адресою <a href=""mailto:%store_email""> %store_email </a>",module,Magento_Sales
-"or call us at <a href=""tel:%store_phone"">%store_phone</a>","або зателефонуйте нам за адресою <a href=""tel:%store_phone""> %store_phone </a>",module,Magento_Sales
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>","Якщо у Вас є питання з приводу Вашого замовлення, ви можете зв'язатися з нами за адресою <a href=""mailto:%store_email""> %store_email </a>",module,Magento_Sales
+"or call us at <a href=""tel:%store_phone"">%store_phone</a>","або по телефону <a href=""tel:%store_phone""> %store_phone </a>",module,Magento_Sales
 "Our hours are <span class=""no-link"">%store_hours</span>.","Наші годинник не є <span class=""no-link"">%store_hours</span>.",module,Magento_Sales
 Your Credit Memo # %creditmemo_id for Order # %order_id,Ваша кредитна Memo # %creditmemo_id для замовлення # %order_id,module,Magento_Sales
 Billing Info,Інформація щодо сплати,module,Magento_Sales
@@ -6178,7 +6178,7 @@ Your %store_name order confirmation,Ваше підтвердження замо
 Once your package ships we will send you a tracking number.,"Після того, як ваше замовлення буде вiдвантажено ми надішлемо вам номер для відстеження.",module,Magento_Sales
 "Your Order <span class=""no-link""># %increment_id</span>","Ваше замовлення <span class=""no-link""># %increment_id</span>",module,Magento_Sales
 "Placed on <span class=""no-link"">%created_at</span>","Створений <span class=""no-link"">%created_at</span>",module,Magento_Sales
-Once your package ships we will send an email with a link to track your order.,"Після того, як ваш пакет кораблі ми надішлемо лист з посиланням для відстеження Вашого замовлення.",module,Magento_Sales
+Once your package ships we will send an email with a link to track your order.,"Як тільки замовлення буде відвантажено, ми надішлемо Вам електронного листа з посиланням, по якому можна відстежувати процес доставки.",module,Magento_Sales
 Update to your %store_name order,Оновлення до вашого замовлення  %store_name order,module,Magento_Sales
 Your %store_name order has shipped,Ваше замовлення  %store_name відвантажив,module,Magento_Sales
 Your shipping confirmation is below. Thank you again for your business.,Ваше підтвердження доставки нижче. Ще раз спасибі за Ваш бізнес.,module,Magento_Sales
@@ -6221,7 +6221,7 @@ New %changes for %user_name,Нові  %changes  для %user_name,module,Magento
 "Hello,","Здравствуйте,",module,Magento_User
 We have received a request to change the following information associated with your account at %store_name: %changes.,"Ми отримали запит на зміну такої інформації, повʼязану з аккаунтом в %store_name: %changes.",module,Magento_User
 "If you have not authorized this action, please contact us immediately at %store_email","Якщо ви не давали дозвіл на ці дії, будь ласка, негайно звʼяжіться з нами за адресою %store_email",module,Magento_User
-or call us at %store_phone,або зателефонуйте нам за адресою %store_phone,module,Magento_User
+or call us at %store_phone,або по телефону %store_phone,module,Magento_User
 "Thanks,","Дякую,",module,Magento_User
 Take a look at %customer_name's Wish List,Подивіться на список побажань %customer_name:,module,Magento_Wishlist
 %customer_name wants to share this Wish List from %store_name with you:,%customer_name хоче розділити цей список побажань від %store_name з вами:,module,Magento_Wishlist
@@ -6251,9 +6251,9 @@ Customer Service,обслуговування клієнтів,theme,frontend/Ma
 "<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone </a>",theme,frontend/Magento/luma
 "Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","Години роботи: <br /> <span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
 Credit memo for your %store_name order,Кредитове авізо для %store_name замовлення,theme,frontend/Magento/luma
-Thank you for your order from %store_name.,Дякуємо Вам за Ваше замовлення від %store_name.,theme,frontend/Magento/luma
+Thank you for your order from %store_name.,Дякуємо за Ваше замовлення на сайті %store_name.,theme,frontend/Magento/luma
 "You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Ви можете перевірити статус замовлення по <a протоколювання href=""%account_url""> в свій аккаунт </a>.",theme,frontend/Magento/luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Якщо у вас є питання з приводу вашого замовлення, ви можете зв'язатися з нами за адресою <a href=""mailto:%store_email""> %store_email </a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","Якщо у Вас є питання з приводу Вашого замовлення, ви можете зв'язатися з нами за адресою <a href=""mailto:%store_email""> %store_email </a>.",theme,frontend/Magento/luma
 Your Credit Memo # %creditmemo_id for Order # %order_id,Ваша кредитна Memo # %creditmemo_id для замовлення # %order_id,theme,frontend/Magento/luma
 Billing Info,Інформація щодо сплати,theme,frontend/Magento/luma
 Shipping Info,Інформація щодо доставки,theme,frontend/Magento/luma
