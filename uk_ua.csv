@@ -6266,7 +6266,7 @@ Your Invoice # %invoice_id for Order # %order_id,Ваш Рахунок # %invoic
 Update to your %store_name invoice,Оновлення до вашого %store_name рахунків,theme,frontend/Magento/luma
 Your %store_name order confirmation,Ваше підтвердження замовлення  %store_name%,theme,frontend/Magento/luma
 "%customer_name,","%customer_name,",theme,frontend/Magento/luma
-Once your package ships we will send you a tracking number.,"Після того, як ваш пакет кораблів ми надішлемо вам номер для відстеження.",theme,frontend/Magento/luma
+Once your package ships we will send you a tracking number.,"Після того, як ваше замовлення буде вiдвантажено ми надішлемо вам номер для відстеження.",theme,frontend/Magento/luma
 "Your Order <span class=""no-link""># %increment_id</span>","Ваше замовлення <span class=""no-link""> # %increment_id</span>",theme,frontend/Magento/luma
 "Placed on <span class=""no-link"">%created_at</span>","Створений <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
 Update to your %store_name order,Оновлення до вашого %store_name замовлення,theme,frontend/Magento/luma
