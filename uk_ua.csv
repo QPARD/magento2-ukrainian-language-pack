@@ -123,7 +123,7 @@ All Store Views,Усі види крамниці,module,Magento_Backend
 What is this?,Що це?,module,Magento_Backend
 Save Account,Зберегти Обліковий Запис,module,Magento_Backend
 My Account,Мій Аккаунт,module,Magento_Backend
-Account Information,Інформація про обліковий запис,module,Magento_Backend
+Account Information,Дані облікового запису,module,Magento_Backend
 User Name,"Ім'я" користувача,module,Magento_Backend
 First Name,"Ім'я",module,Magento_Backend
 Last Name,Прізвище,module,Magento_Backend
@@ -1906,7 +1906,7 @@ We can't save the customer.,Ми не можемо врятувати клієн
 Please make sure your passwords match.,"Будь ласка, переконайтеся, що ваші паролі збігаються.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","Якщо ви є зареєстрованим клієнтом ПДВ, будь ласка, <a href=""%1""> натисніть тут </a>, щоб ввести адресу доставки для правильного розрахунку ПДВ.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","Якщо ви є зареєстрованим клієнтом ПДВ, будь ласка, <a href=""%1""> натисніть тут </a> ввести свій платіжний адреса для правильного розрахунку ПДВ.",module,Magento_Customer
-Account Information,Інформація про обліковий запис,module,Magento_Customer
+Account Information,Дані облікового запису,module,Magento_Customer
 You saved the account information.,Ви зберегли інформацію про обліковий запис.,module,Magento_Customer
 The account is locked. Please wait and try again or contact %1.,"Обліковий запис заблоковано. Будь ласка, зачекайте і спробуйте ще раз або зв\'яжіться з %1.",module,Magento_Customer
 Password confirmation doesn't match entered password.,Підтвердження пароля не відповідає введеному паролю.,module,Magento_Customer
@@ -4211,7 +4211,7 @@ Order Comment,Коментар до замовлення,module,Magento_Sales
 Coupons,купони,module,Magento_Sales
 Please select a customer,"Будь ласка, виберіть клієнта",module,Magento_Sales
 Create New Customer,Створення нового клієнта,module,Magento_Sales
-Account Information,Інформація про обліковий запис,module,Magento_Sales
+Account Information,Дані облікового запису,module,Magento_Sales
 From,Від,module,Magento_Sales
 To,До,module,Magento_Sales
 Message,Повідомлення,module,Magento_Sales
@@ -4775,7 +4775,7 @@ To Name,Називати,module,Magento_Sales
 Status,Статус,module,Magento_Sales
 Comment,Коментар,module,Magento_Sales
 Notification Not Applicable,Повідомлення Не застосовується,module,Magento_Sales
-Order & Account Information,Замовлення і інформація про обліковий запис,module,Magento_Sales
+Order & Account Information,Замовлення і дані облікового запису,module,Magento_Sales
 The order confirmation email was sent,Повідомлення електронної пошти з підтвердженням замовлення було відправлено,module,Magento_Sales
 The order confirmation email is not sent,Повідомлення електронної пошти з підтвердженням замовлення не відправлено,module,Magento_Sales
 Order Date,Дата замовлення,module,Magento_Sales
@@ -5642,7 +5642,7 @@ Are you sure you want to revoke the user's tokens?,"Ви впевнені, що 
 Force Sign-In,Сила Sign-В,module,Magento_User
 Edit User '%1',Редагування користувача '%1',module,Magento_User
 New User,Новий користувач,module,Magento_User
-Account Information,Інформація про обліковий запис,module,Magento_User
+Account Information,Дані облікового запису,module,Magento_User
 User Email,Email Користувача,module,Magento_User
 Password,Пароль,module,Magento_User
 New Password,Новий Пароль,module,Magento_User
