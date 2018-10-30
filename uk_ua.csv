@@ -6052,7 +6052,7 @@ item,елемент,module,Magento_Checkout
 items,елементи,module,Magento_Checkout
 Go to Checkout,Перейти до замовлення,module,Magento_Checkout
 Recently added item(s),Нещодавно додані товар (ів),module,Magento_Checkout
-View and edit cart,Переглянути і редагувати кошик,module,Magento_Checkout
+View and edit cart,Перейти у кошик,module,Magento_Checkout
 See Details,Дивитися деталі,module,Magento_Checkout
 Options Details,Деталі,module,Magento_Checkout
 Remove,Вилучити,module,Magento_Checkout
