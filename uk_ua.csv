@@ -2134,6 +2134,7 @@ Registered Customers,Зареєстровані клієнти,module,Magento_Cu
 "If you have an account, sign in with your email address.","Якщо у вас є обліковий запис, введіть свою адресу електронної пошти.",module,Magento_Customer
 Password,Пароль,module,Magento_Customer
 Forgot Your Password?,Забули пароль?,module,Magento_Customer
+Forgot Your Password,Забули пароль?,module,Magento_Customer
 Subscription option,Опціїї підписки,module,Magento_Customer
 General Subscription,Головна підписка,module,Magento_Customer
 Sign Up for Newsletter,Підписатися на новини,module,Magento_Customer
