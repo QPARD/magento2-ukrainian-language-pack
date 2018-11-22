@@ -1361,6 +1361,7 @@ Customer is already registered,Клієнт вже зареєстрований,
 Your session has expired,Ваша сесія закінчилася,module,Magento_Checkout
 A letter with further instructions will be sent to your email.,Лист з подальшими інструкціями буде відправлено на вашу електронну адресу.,module,Magento_Checkout
 You added %1 to your shopping cart.,Ви додали %1 у Ваш кошик.,module,Magento_Checkout
+"You added %1 to your <a href=""%2"">shopping cart</a>.","Ви додали %1 у <a href=""%2"">Ваш кошик</a>."
 We can't add this item to your shopping cart right now.,Наразі ми не можемо додати цю позицію до вашого кошику.,module,Magento_Checkout
 Out of stock,Нема у наявності,module,Magento_Checkout
 We can't find the quote item.,Ми не можемо знайти цитати пункту.,module,Magento_Checkout
