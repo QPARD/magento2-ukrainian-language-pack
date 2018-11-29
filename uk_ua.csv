@@ -712,6 +712,7 @@ Please specify at least one search term.,"Будь ласка, вкажіть п
 up to %1,до %1,module,Magento_CatalogSearch
 Category,Категорія,module,Magento_CatalogSearch
 " %1 and above"," %1 та більше",module,Magento_CatalogSearch
+"%1 and above","%1 та більше",module,Magento_CatalogSearch
 "Sorry, something went wrong. You can find out more in the error log.","На жаль, щось пішло не так. Ви можете дізнатися більше в журналі помилок.",module,Magento_CatalogSearch
 Bucket does not exist,Ківш не існує,module,Magento_CatalogSearch
 Product,Продукт,module,Magento_CatalogSearch
@@ -1036,7 +1037,6 @@ Category,Категорія,module,Magento_Catalog
  %1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter, %1 не є роширенням \Magento\Catalog\Model\Layer\Filter\AbstractFilter,module,Magento_Catalog
 The filter must be an object. Please set the correct filter.,"Фільтр повинен бути об'єктом. Будь ласка, задайте коректний фільтр.",module,Magento_Catalog
 Clear Price,Очистити ціну,module,Magento_Catalog
- %1 and above, %1 та вище,module,Magento_Catalog
 The filters must be an array.,Фільтри повинні бути масивом.,module,Magento_Catalog
 Product was not registered,Товар не був зареєстрований,module,Magento_Catalog
 Store was not registered,Магазин не був зареєстрований,module,Magento_Catalog
